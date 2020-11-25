@@ -1,0 +1,66 @@
+/*its a css file*/
+#main-wrapper{
+	width:500px;
+	margin:0 auto;
+	background:white;
+	padding:5px;
+	border-radius:10px;
+	border:2px solid black;
+}
+#imgsrc{
+	width:200px;
+	text-align: centre;
+	border-radius:50%;
+}
+.myform{
+	width:450px;
+	margin:0 auto;
+}
+#inputvalues{
+	width:430px;
+	margin:0 auto;
+	padding:5px;
+}
+#login_btn{
+	width:430px;
+	background-color:#2ecc71;
+	color:white;
+	text-align:centre;
+	padding:5px;
+	margin-top:5px;
+}
+#register_btn{
+	width:430px;
+	background-color:#3498db;
+	color:white;
+	text-align:centre;
+	padding:5px;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+#signup-btn{
+	width:430px;
+	background-color:#3498db;
+	color:white;
+	text-align:centre;
+	padding:5px;
+	margin-top:5px;
+}
+#back-btn{
+	width:430px;
+	background-color:#e74c3c;
+	color:white;
+	text-align:centre;
+	padding:5px;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+#logout-btn{
+	width:430px;
+	background-color:#e74c3c;
+	color:white;
+	text-align:centre;
+	padding:5px;
+	margin-top:5px;
+	margin-bottom:5px;
+}
